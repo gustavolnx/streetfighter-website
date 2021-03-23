@@ -1,0 +1,8 @@
+@import url('./global.css');
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,200;0,400;0,600;1,900");
+@import url('./nav.css');
+@import url('./container-principal.css');
+@import url('./container-personagens.css');
+@import url('./container-ayr.css');
+@import url('./container-feedback.css');
+@import url('./container-footer.css');

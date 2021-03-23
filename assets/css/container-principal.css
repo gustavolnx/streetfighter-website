@@ -1,0 +1,72 @@
+header > .container-principal
+{
+
+width: 100%;
+height: 100vh;
+background-color: rgb(255, 174, 0);
+position: relative;
+display: inline-block;
+padding: 3rem;
+
+
+
+}
+
+.logo-header
+{
+width: 18rem;
+margin-left: 6rem;
+
+}
+
+.logo-raised
+{
+    margin-top: 1.5rem;
+    font-size: 1.3rem;
+    display: flex;
+    
+    
+}
+.logo-class
+{
+
+margin-left: 15rem;
+
+    
+    
+}
+.line-raised
+{
+    position: absolute;
+    width: 3.85rem;
+    height: 0.15rem;
+    background-color: black;
+    margin-top: 0.55rem;
+    left: 12.8rem;
+}
+
+.line-raised-2
+{
+    position: absolute;
+    width: 3.85rem;
+    height: 0.15rem;
+    background-color: black;
+    margin-top: 0.55rem;
+    right: 11.2rem;
+}
+
+.h1-round
+{
+color: #141414;
+margin-top: 0.15rem;
+font-size: 3.5rem;
+margin-left: 2.6rem;
+font-style: italic;
+
+}
+
+.container-principal span
+{
+    font-size: 1rem;
+    margin-left: 6rem;
+}

@@ -1,0 +1,130 @@
+.container-personagens
+{
+
+width: 100%;
+height: 100vh;
+background-color: rgb(255, 255, 255);
+position: relative;
+display: inline-block;
+padding: 2.5rem;
+         
+}
+
+.h1-characters
+{
+margin-top: 2rem;
+margin-left: 10rem;
+font-size: 2.5rem;
+margin-right: 1.5rem;
+font-style: italic;
+text-transform: uppercase;
+color: #141414;
+}
+
+.container-personagens .badge-personagem-1,.badge-personagem-2, .badge-personagem-3, .badge-personagem-4, .badge-personagem-5, .badge-personagem-6
+{
+    position: absolute;
+    display: inline-block;
+    justify-content: center;
+    margin-top: 2rem;
+    width: 8.5rem;
+    height: 8.5rem;
+    background-color: black;
+    border-radius: 0.3rem;
+}
+
+
+
+.img-personagem-1
+{
+   
+    height: 7.5rem;
+    position: absolute;
+    margin-top: 0.45rem ;
+    margin-left: -0.75rem;
+    
+}
+.img-personagem-2
+{
+   
+    height: 7.5rem;
+    position: absolute;
+    margin-top: 0.45rem ;
+    margin-left: -0.75rem;
+    
+}
+.img-personagem-3
+{
+   
+    height: 7.5rem;
+    position: absolute;
+    margin-top: 0.45rem ;
+    margin-left: -0.75rem;
+    
+}
+.img-personagem-4
+{
+   
+    height: 7.5rem;
+    position: absolute;
+    margin-top: 0.45rem ;
+    margin-left: -0.75rem;
+    
+}
+.img-personagem-5
+{
+   
+    height: 7.5rem;
+    position: absolute;
+    margin-top: 0.45rem ;
+    margin-left: -0.75rem;
+    
+}
+.img-personagem-6
+{
+   
+    height: 7.5rem;
+    position: absolute;
+    margin-top: 0.45rem ;
+    margin-left: -0.75rem;
+    
+}
+
+
+
+
+.container-personagens .badge-personagem-2
+{
+    margin-left: 9rem;
+
+}
+.container-personagens .badge-personagem-3
+{
+    margin-left: 18rem;
+
+}
+.container-personagens .badge-personagem-4
+{
+    background-image: url();
+    margin-top: 11rem;
+
+}
+.container-personagens .badge-personagem-5
+{
+    margin-left: 9rem;
+    margin-top: 11rem;
+
+}
+.container-personagens .badge-personagem-6
+{
+    margin-left: 18rem;
+    margin-top: 11rem;
+
+}
+
+.badges-personagens
+{
+    margin-left: 2.82rem;
+    display: flex;
+    position: relative;
+}

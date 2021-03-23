@@ -1,0 +1,115 @@
+.container-footer
+{
+width: 100%;
+height: 10rem;
+background-color: #1e1e1e;
+position: relative;
+display: inline-block;
+padding: 2.5rem;
+         
+}
+
+.h2-footer
+{
+    
+    margin-left: 11.5rem;
+    font-size: 1.5rem;
+    margin-right: 1.5rem;
+    font-style : italic;
+    color: #f0f0f0;
+}
+
+.icon-badges
+{
+    display: inline-flex;
+    justify-content: center;
+
+}
+
+.badge-1
+{
+    width: 3rem;
+    height: 3rem;
+    background-color: #1e1e1e;
+    border-radius: 3rem;
+    position: relative;
+    border: solid white ;
+    border-width: 0.1rem;
+    margin-top: 1rem;
+    margin-left: 9.2rem;
+    display: flex;
+}
+.badge-2
+{
+    width: 3rem;
+    height: 3rem;
+    background-color: #1e1e1e;
+    border-radius: 3rem;
+    position: relative;
+    border: solid white ;
+    border-width: 0.1rem;
+    margin-top: 1rem;
+    margin-left: 0.8rem;
+    display: flex;
+
+}
+.badge-3
+{
+    width: 3rem;
+    height: 3rem;
+    background-color: #1e1e1e;
+    border-radius: 3rem;
+    position: relative;
+    border: solid white ;
+    border-width: 0.1rem;
+    margin-top: 1rem;
+    margin-left: 0.8rem;
+    display: flex;
+
+}
+.badge-4
+{
+    width: 3rem;
+    height: 3rem;
+    background-color: #1e1e1e;
+    border-radius: 3rem;
+    position: relative;
+    border: solid white ;
+    border-width: 0.1rem;
+    margin-top: 1rem;
+    margin-left: 0.8rem;
+    display: flex;
+
+}
+.facebook-logo
+{
+    margin-top: 0.9rem;
+    margin-left: 1.05rem;
+    position: absolute;
+    color: white;
+   
+}
+.twitter-logo
+{
+    margin-top: 0.9rem;
+    margin-left: 0.9rem;
+    position: absolute;
+    color: white;
+   
+}
+.linkedin-logo
+{
+    margin-top: 0.9rem;
+    margin-left: 0.9rem;
+    position: absolute;
+    color: white;
+   
+}
+.basket-logo
+{
+    margin-top: 0.9rem;
+    margin-left: 0.9rem;
+    position: absolute;
+    color: white;
+   
+}
